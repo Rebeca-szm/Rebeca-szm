@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou a Rebeca! 
+ 
+Seja bem-vindo(a) ao meu GitHub!
+ 
+Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minha evolução nos estudos.
+ 
+## Sobre mim ✨
+ 
+- 🎓 Estudando Desenvolvimento de Sistemas no SENAI Petrópolis
+- 📚 Amo ler livros
+- ♥️ Adoro aprender programação
 
-<!--
-**Rebeca-szm/Rebeca-szm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## O que estou aprendendo 🖥️
+ 
+- HTML, CSS e JavaScript
+- Lógica de programação
+- FrontEnd
+- Modelagem de sistemas
+- Estrutura de dados
+ 
+## Como me encontrar 🔍
+ 
+- **GitHub:** [@Rebeca-szm](https://github.com/Rebeca-szm)
+- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
+- **Email:** rebecaszm128@gmail.com
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/Rebeca-szm/Rebeca-szm/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
