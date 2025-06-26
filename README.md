@@ -25,7 +25,6 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
 - **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
 - **Email:** rebecaszm128@gmail.com
 
-<img src="https://raw.githubusercontent.com/Rebeca-szm/Rebeca-szm/output/snake.svg" alt="Snake animation" />
 
 ###
 
