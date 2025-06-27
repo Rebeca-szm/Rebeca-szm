@@ -25,9 +25,9 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
 - **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
 - **Email:** rebecaszm128@gmail.com
 
-https://raw.githubusercontent.com/Rebeca-szm/Rebeca-szm/60883945c039780467a4e7d8ca2fbc6218316b54/github-contribution-grid-snake.svg
-###
+![snake gif](https://raw.githubusercontent.com/Rebeca-szm/Rebeca-szm/f4353690f705ee070cf6f16d21025c20320ca1e9/github-contribution-grid-snake-dark.svg)
 
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
