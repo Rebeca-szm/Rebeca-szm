@@ -25,7 +25,7 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
 - **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
 - **Email:** rebecaszm128@gmail.com
 
-
+https://raw.githubusercontent.com/Rebeca-szm/Rebeca-szm/60883945c039780467a4e7d8ca2fbc6218316b54/github-contribution-grid-snake.svg
 ###
 
 <div align="center">
