@@ -1,9 +1,10 @@
 # Olá, eu sou a Rebeca! 
- 
+
 Seja bem-vindo(a) ao meu GitHub!
  
 Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minha evolução nos estudos.
- 
+###
+
 ## Sobre mim ✨
  
 - 🎓 Estudando Desenvolvimento de Sistemas no SENAI Petrópolis
@@ -18,6 +19,7 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
 - FrontEnd
 - Modelagem de sistemas
 - Estrutura de dados
+- Banco de dados
  
 ## Como me encontrar 🔍
  
@@ -29,7 +31,7 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
 
 ###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -37,5 +39,4 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
 ###
