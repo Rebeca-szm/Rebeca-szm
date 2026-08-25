@@ -22,8 +22,7 @@ Sou uma desenvolvedora em formação e aqui você vai encontrar um pouco da minh
 - Banco de dados
  
 ## Como me encontrar 🔍
- 
-- **GitHub:** [@Rebeca-szm](https://github.com/Rebeca-szm)
+
 - **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
 - **Email:** rebecaszm128@gmail.com
 
